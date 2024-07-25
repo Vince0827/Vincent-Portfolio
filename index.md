@@ -1,5 +1,5 @@
 # Led Snake game
-This is an remake of the old snake game but on an Led board. The gist of it is to collect the 
+This is an remake of the old snake game but on an Led board. The gist of it is to collect the apples(lights) to grow your snake longer and longer.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -45,13 +45,13 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch/kuWQfPAjN5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+-The joystick makes the led lights glow. When you push the joystick right it makes the blue led glow up, and when you push the joystick left you light up the green. But the yellow light stays on, unless you play with they jowystick a little then the green light forces it off. 
+- Some progress i've made was is learning ardiuno in the last few days and im already starting to understand.
+- One hard challange i had was when my little cousins unplugged and messed up my game and I had to restart from the start.
+- My plan is to keep tring even if things get hard because sometimes good things dont come easy.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
