@@ -351,7 +351,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Arduino uno | coding | $35.99 | https://www.amazon.com/dp/B01D8KOZF4/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B01D8KOZF4&pd_rd_w=Sd63q&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=50QZC02G76PY2SZTKZTW&pd_rd_wg=jMnu5&pd_rd_r=467bc504-84a8-48ea-b482-a9399e18be54&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM|
+| Arduino uno | coding | $35.99 | <a href="https://www.amazon.com/dp/B01D8KOZF4/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B01D8KOZF4&pd_rd_w=Sd63q&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=50QZC02G76PY2SZTKZTW&pd_rd_wg=jMnu5&pd_rd_r=467bc504-84a8-48ea-b482-a9399e18be54&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM"> Link </a> |
 | 8x8 led matrix | the snakes movement and body | $4.00 | <a href="https://www.ebay.com/itm/181860981748"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
