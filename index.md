@@ -36,10 +36,10 @@ For your final milestone, explain the outcome of your project. Key details to in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8FxKgjxmOD0?si=ZGFPcYM6_ZfNE6to" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- I had to learn how to wire, code, and build a game in under 3 weeks and it was fun
+- The only thing that suprised me was that I built it
+- My parts didnt come in time so I had to build my game fast
+- The last things that I need to do is modify it
 
 # First Milestone
 
@@ -353,7 +353,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Arduino uno | coding | $35.99 | <a href="https://www.amazon.com/dp/B01D8KOZF4/ref=sspa_dk_detail_4?psc=1&pd_rd_i=B01D8KOZF4&pd_rd_w=Sd63q&content-id=amzn1.sym.386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_p=386c274b-4bfe-4421-9052-a1a56db557ab&pf_rd_r=50QZC02G76PY2SZTKZTW&pd_rd_wg=jMnu5&pd_rd_r=467bc504-84a8-48ea-b482-a9399e18be54&s=pc&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM"> Link </a> |
 | 8x8 led matrix | the snakes movement and body | $4.00 | <a href="https://www.ebay.com/itm/181860981748"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
